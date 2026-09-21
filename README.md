@@ -16,7 +16,7 @@
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
 - 🔄 Em transição de carreira: de Suporte Técnico de T.I para Análise de Sistemas e Processos
 - 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas
-- 📚 Formações complementares em TI, LGPD, Cyber Segurança e Análise de Dados/Banco de Dados
+- 📚 Formações complementares em TI, LGPD, Cyber Segurança, Administrando banco de Dados.
 
 ## 🚀 Tecnologias
 
