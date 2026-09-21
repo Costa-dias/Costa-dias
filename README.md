@@ -12,13 +12,13 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🖥️ Auxiliar de Suporte de T.I no Hospital Infantil Gonzaga (sistema MV Soul Hospitalar)
+- 🖥️ Auxiliar de Suporte de TI no Hospital Infantil Gonzaga (sistema MV Soul Hospitalar)
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
-- 🔄 Em transição de carreira: de Suporte Técnico de T.I para Análise de Sistemas e Processos
-- 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas
+- 🔄 Em transição de carreira: de Suporte de TI | Análise e Desenvolvimento de Sistemas
+- 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas e solucionando problemas reais
 - 📚 Formações complementares em TI, LGPD, Cyber Segurança, Administrando banco de Dados.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias usadas nos projetos com IA
 
 **Front-End**
 
@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Desenvolvido com IA](https://img.shields.io/badge/DESENVOLVIDO_COM_IA-8B5CF6?style=for-the-badge)
 
 **Back-End & Banco de Dados**
 
