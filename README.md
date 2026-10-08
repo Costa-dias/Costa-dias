@@ -53,7 +53,7 @@
 - 🍯 **[Honey Bee Catálogo](https://github.com/Costa-dias/honey-bee-catalogo)** — catálogo online de cestas personalizadas
 - 🏠 **[Corretor de Imóveis](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine)** — plataforma web para exibição e gestão de catálogo imobiliário
 - 💰 **[Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas)** — controle financeiro pessoal, 100% local e criptografado
-- 🗓️ **[TurnoExtra].(https://github.com/Costa-dias/Gestao-de-plantao))** - sistema para organização e gerenciamento de serviços e plantões, pensado para facilitar o controle de escalas e informações operacionais
+- 🗓️ **[TurnoExtra].(https://github.com/Costa-dias/Gestao-de-plantao).** - sistema para organização e gerenciamento de serviços e plantões, pensado para facilitar o controle de escalas e informações operacionais
 
 ## 🔥 Streak
 
