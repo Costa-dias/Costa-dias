@@ -2,7 +2,7 @@
 
 # Olá, eu sou o João Vitor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Suporte+de+T.I+evoluindo+para+An%C3%A1lise+de+Sistemas;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Profissional+de+T.I+An%C3%A1lise+de+Sistemas+e+processos;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-3B82F6?style=for-the-badge&logoColor=white)](https://portfolio-qrb3.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-vitor-tec)
@@ -14,7 +14,7 @@
 
 - 🖥️ Auxiliar de Suporte de TI no Hospital Infantil Gonzaga (sistema MV Soul Hospitalar)
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
-- 🔄 Em transição de carreira: de Suporte de TI | Análise e Desenvolvimento de Sistemas
+- 🔄 Suporte de TI | Análise e Desenvolvimento de Sistemas e processos
 - 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas e solucionando problemas reais
 - 📚 Formações complementares em TI, LGPD, Cyber Segurança, Administrando banco de Dados.
 
@@ -53,6 +53,7 @@
 - 🍯 **[Honey Bee Catálogo](https://github.com/Costa-dias/honey-bee-catalogo)** — catálogo online de cestas personalizadas
 - 🏠 **[Corretor de Imóveis](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine)** — plataforma web para exibição e gestão de catálogo imobiliário
 - 💰 **[Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas)** — controle financeiro pessoal, 100% local e criptografado
+- 🗓️ **[TurnoExtra].(https://github.com/Costa-dias/Gestao-de-plantao))** - sistema para organização e gerenciamento de serviços e plantões, pensado para facilitar o controle de escalas e informações operacionais
 
 ## 🔥 Streak
 
