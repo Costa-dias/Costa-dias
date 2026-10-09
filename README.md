@@ -2,7 +2,7 @@
 
 # Olá, eu sou o João Vitor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Profissional+de+T.I+An%C3%A1lise+de+Sistemas+e+processos;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines==Profissional+de+T.I+An%C3%A1lise+de+Sistemas+e+processos;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-3B82F6?style=for-the-badge&logoColor=white)](https://portfolio-qrb3.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-vitor-tec)
