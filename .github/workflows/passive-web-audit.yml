@@ -1,0 +1,45 @@
+name: Passive web security audit
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 9 * * 6'
+permissions:
+  contents: read
+jobs:
+  zap-baseline:
+    name: Passive ZAP - ${{ matrix.label }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        include:
+          - label: honey-bee
+            url: https://honey-bee-catalogo.onrender.com
+          - label: portfolio
+            url: https://portfolio-qrb3.onrender.com
+          - label: dashboard
+            url: https://dashboard-financas-rfv6.onrender.com
+          - label: turnoextra
+            url: https://gestao-de-plantao.onrender.com
+          - label: fraudlens
+            url: https://fraudlens-code.onrender.com
+          - label: assistente-ti
+            url: https://assistente-de-ti.onrender.com
+          - label: corretor-frontend
+            url: https://corretor-imoveis-frontend.onrender.com
+          - label: radar-cloudflare
+            url: https://radar-de-golpes-hub.xadoondias.workers.dev
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: OWASP ZAP baseline (spider público + scanner passivo, sem login)
+        uses: zaproxy/action-baseline@v0.15.0
+        with:
+          target: ${{ matrix.url }}
+          cmd_options: '-m 1'
+          allow_issue_writing: false
+          fail_action: false
+          artifact_name: zap-baseline-${{ matrix.label }}
