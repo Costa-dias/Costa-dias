@@ -18,42 +18,25 @@
 - 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas e solucionando problemas reais
 - 📚 Formações complementares em TI, LGPD, Cyber Segurança, Administrando banco de Dados.
 
-## 🚀 Tecnologias usadas nos projetos com IA
+## 🚀 Tecnologias aplicadas nos projetos
 
-**Front-End**
+| Projeto | Problema atendido | Tecnologias e decisões |
+|---|---|---|
+| [TurnoExtra](https://github.com/Costa-dias/TurnoExtra) | Serviços, recebimentos parciais e cobranças | React, TypeScript, IndexedDB, Web Crypto e exportação de calendário |
+| [Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas) | Saldo realizado, previsão e movimentação entre contas | React, TypeScript, gráficos, armazenamento local e backup protegido |
+| [FraudLens](https://github.com/Costa-dias/FraudLens) | Sinais de risco antes de abrir uma URL | React, Python/FastAPI, Google Safe Browsing, VirusTotal e testes da API |
+| [Honey Bee](https://github.com/Costa-dias/honey-bee-catalogo) | Catálogo e orçamento de cestas pelo WhatsApp | React, TypeScript, Supabase e painel administrativo |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Desenvolvido com IA](https://img.shields.io/badge/DESENVOLVIDO_COM_IA-8B5CF6?style=for-the-badge)
-
-**Back-End & Banco de Dados**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+Desenvolvo soluções com apoio de IA aplicada, buscando entender as decisões, revisar o código e validar o comportamento. Exemplos técnicos e limitações estão documentados nos repositórios e nos estudos de caso do [portfólio](https://portfolio-qrb3.onrender.com/#projetos).
 
 ## 📌 Projetos em destaque
 
 - 🌐 **[Portfólio](https://github.com/Costa-dias/Portofolio)** — portfólio pessoal reunindo os projetos abaixo
-- 🔍 **[FraudLens](https://github.com/Costa-dias/FraudLens)** — verificador de links, QR codes e prints suspeitos contra fraudes/phishing
+- 🔍 **[FraudLens](https://github.com/Costa-dias/FraudLens)** — verificador de URLs e extrator local de QR Codes, com sinais de risco e limitações da consulta explicados
 - 🍯 **[Honey Bee Catálogo](https://github.com/Costa-dias/honey-bee-catalogo)** — catálogo online de cestas personalizadas
 - 🏠 **[Corretor de Imóveis](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine)** — plataforma web para exibição e gestão de catálogo imobiliário
 - 💰 **[Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas)** — controle financeiro pessoal, 100% local e criptografado
-- 🗓️ **[TurnoExtra](https://github.com/Costa-dias/Gestao-de-plantao)** — sistema para organização e gerenciamento de serviços e plantões, pensado para facilitar o controle de escalas e informações operacionais
+- 🗓️ **[TurnoExtra](https://github.com/Costa-dias/TurnoExtra)** — agenda de serviços e plantões com recebimentos parciais, cobranças, relatórios e backup criptografado
 
 ## 🔥 Streak
 
