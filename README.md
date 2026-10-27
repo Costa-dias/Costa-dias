@@ -31,12 +31,16 @@ Desenvolvo soluções com apoio de IA aplicada, buscando entender as decisões, 
 
 ## 📌 Projetos em destaque
 
-- 🌐 **[Portfólio](https://github.com/Costa-dias/Portofolio)** — portfólio pessoal reunindo os projetos abaixo
-- 🔍 **[FraudLens](https://github.com/Costa-dias/FraudLens)** — verificador de URLs e extrator local de QR Codes, com sinais de risco e limitações da consulta explicados
-- 🍯 **[Honey Bee Catálogo](https://github.com/Costa-dias/honey-bee-catalogo)** — catálogo online de cestas personalizadas
-- 🏠 **[Corretor de Imóveis](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine)** — plataforma web para exibição e gestão de catálogo imobiliário
-- 💰 **[Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas)** — controle financeiro pessoal, 100% local e criptografado
-- 🗓️ **[TurnoExtra](https://github.com/Costa-dias/TurnoExtra)** — agenda de serviços e plantões com recebimentos parciais, cobranças, relatórios e backup criptografado
+### 💻 [Assistente de TI — apresentação técnica](https://github.com/Costa-dias/projeto-web-ti-apresentacao)
+Aplicação privada criada para apoiar minha rotina de suporte: busca em registros técnicos e consulta opcional com IA. Desenvolvida com React, TypeScript, Node.js e integrações Google. A apresentação mostra a solução sem expor código ou dados privados.
+
+### 🔍 [FraudLens](https://github.com/Costa-dias/FraudLens)
+Ajuda a avaliar sinais de risco em links antes de acessá-los, com informações sobre a cobertura e os limites das consultas. React, TypeScript, Python e APIs de segurança.
+
+### 🗓️ [TurnoExtra](https://github.com/Costa-dias/TurnoExtra)
+Organiza serviços e plantões, recebimentos e relatórios, com dados locais e backup protegido. React, TypeScript, IndexedDB e Web Crypto.
+
+Conheça também o [Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas), o [Honey Bee](https://github.com/Costa-dias/honey-bee-catalogo) e outros projetos no [portfólio](https://portfolio-qrb3.onrender.com/#projetos).
 
 ## 🔥 Streak
 
