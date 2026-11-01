@@ -2,7 +2,7 @@
 
 # Olá, eu sou o João Vitor 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines==Profissional+de+T.I+An%C3%A1lise+de+Sistemas+e+processos;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Profissional+de+T.I+An%C3%A1lise+de+Sistemas+e+processos;Estudante+de+ADS+%7C+Anhanguera;Dev+Web+nas+horas+vagas+com+IA+aplicada)](https://git.io/typing-svg)
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-3B82F6?style=for-the-badge&logoColor=white)](https://portfolio-qrb3.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-vitor-tec)
@@ -13,16 +13,16 @@
 ## 👨‍💻 Sobre mim
 
 - 🖥️ Auxiliar de Suporte de TI no Hospital Infantil Gonzaga (sistema MV Soul Hospitalar)
-- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
+- 🛠️ Prestador de serviços de suporte de TI nas unidades da Biomega, na Baixada Santista/SP.\n- 📍 Baixada Santista/SP.\n- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
 - 🔄 Suporte de TI | Análise e Desenvolvimento de Sistemas e processos
 - 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas e solucionando problemas reais
-- 📚 Formações complementares em TI, LGPD, Cyber Segurança, Administrando banco de Dados.
+- 📚 Formação complementar em LGPD, TIC, Cibersegurança (Hackers do Bem) e Administração de Banco de Dados (Fundação Bradesco).
 
 ## 🚀 Tecnologias aplicadas nos projetos
 
 | Projeto | Problema atendido | Tecnologias e decisões |
 |---|---|---|
-| [TurnoExtra](https://github.com/Costa-dias/TurnoExtra) | Serviços, recebimentos parciais e cobranças | React, TypeScript, IndexedDB, Web Crypto e exportação de calendário |
+| [Assistente de TI](https://github.com/Costa-dias/projeto-web-ti-apresentacao) | Registro e consulta de OS, pendências e recorrências | React, TypeScript, Node.js, Google Sheets, Google OAuth e Gemini opcional |\n| [Radar de Golpes](https://radar-de-golpes-hub.xadoondias.workers.dev/) | Educação sobre golpes digitais e identificação de sinais | React, TypeScript, TanStack Start e Cloudflare Workers |\n| [Vitrine Imobiliária](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine) | Busca e apresentação de imóveis fictícios, sem identidade de corretor | React, JavaScript e backend Python/FastAPI |\n| [TurnoExtra](https://github.com/Costa-dias/TurnoExtra) | Serviços, recebimentos parciais e cobranças | React, TypeScript, IndexedDB, Web Crypto e exportação de calendário |
 | [Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas) | Saldo realizado, previsão e movimentação entre contas | React, TypeScript, gráficos, armazenamento local e backup protegido |
 | [FraudLens](https://github.com/Costa-dias/FraudLens) | Sinais de risco antes de abrir uma URL | React, Python/FastAPI, Google Safe Browsing, VirusTotal e testes da API |
 | [Honey Bee](https://github.com/Costa-dias/honey-bee-catalogo) | Catálogo e orçamento de cestas pelo WhatsApp | React, TypeScript, Supabase e painel administrativo |
@@ -32,7 +32,7 @@ Desenvolvo soluções com apoio de IA aplicada, buscando entender as decisões, 
 ## 📌 Projetos em destaque
 
 ### 💻 [Assistente de TI — apresentação técnica](https://github.com/Costa-dias/projeto-web-ti-apresentacao)
-Aplicação privada criada para apoiar minha rotina de suporte: busca em registros técnicos e consulta opcional com IA. Desenvolvida com React, TypeScript, Node.js e integrações Google. A apresentação mostra a solução sem expor código ou dados privados.
+Aplicação privada criada para apoiar minha rotina de suporte: cadastro e edição de OS, acompanhamento de pendências, busca em registros técnicos, recorrências e consulta opcional com IA. Desenvolvida com React, TypeScript, Node.js e integrações Google. A apresentação mostra a solução sem expor código ou dados privados.
 
 ### 🔍 [FraudLens](https://github.com/Costa-dias/FraudLens)
 Ajuda a avaliar sinais de risco em links antes de acessá-los, com informações sobre a cobertura e os limites das consultas. React, TypeScript, Python e APIs de segurança.
