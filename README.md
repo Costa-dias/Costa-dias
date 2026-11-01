@@ -13,7 +13,9 @@
 ## 👨‍💻 Sobre mim
 
 - 🖥️ Auxiliar de Suporte de TI no Hospital Infantil Gonzaga (sistema MV Soul Hospitalar)
-- 🛠️ Prestador de serviços de suporte de TI nas unidades da Biomega, na Baixada Santista/SP.\n- 📍 Baixada Santista/SP.\n- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
+- 🛠️ Prestador de serviços de suporte de TI nas unidades da Biomega, na Baixada Santista/SP.
+- 📍 Baixada Santista/SP.
+- 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) — Anhanguera
 - 🔄 Suporte de TI | Análise e Desenvolvimento de Sistemas e processos
 - 🌱 Desenvolvendo projetos web aplicando IA nas horas vagas e solucionando problemas reais
 - 📚 Formação complementar em LGPD, TIC, Cibersegurança (Hackers do Bem) e Administração de Banco de Dados (Fundação Bradesco).
@@ -22,7 +24,10 @@
 
 | Projeto | Problema atendido | Tecnologias e decisões |
 |---|---|---|
-| [Assistente de TI](https://github.com/Costa-dias/projeto-web-ti-apresentacao) | Registro e consulta de OS, pendências e recorrências | React, TypeScript, Node.js, Google Sheets, Google OAuth e Gemini opcional |\n| [Radar de Golpes](https://radar-de-golpes-hub.xadoondias.workers.dev/) | Educação sobre golpes digitais e identificação de sinais | React, TypeScript, TanStack Start e Cloudflare Workers |\n| [Vitrine Imobiliária](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine) | Busca e apresentação de imóveis fictícios, sem identidade de corretor | React, JavaScript e backend Python/FastAPI |\n| [TurnoExtra](https://github.com/Costa-dias/TurnoExtra) | Serviços, recebimentos parciais e cobranças | React, TypeScript, IndexedDB, Web Crypto e exportação de calendário |
+| [Assistente de TI](https://github.com/Costa-dias/projeto-web-ti-apresentacao) | Registro e consulta de OS, pendências e recorrências | React, TypeScript, Node.js, Google Sheets, Google OAuth e Gemini opcional |
+| [Radar de Golpes](https://radar-de-golpes-hub.xadoondias.workers.dev/) | Educação sobre golpes digitais e identificação de sinais | React, TypeScript, TanStack Start e Cloudflare Workers |
+| [Vitrine Imobiliária](https://github.com/Costa-dias/Corretor-de-imoveis-vitrine) | Busca e apresentação de imóveis fictícios, sem identidade de corretor | React, JavaScript e backend Python/FastAPI |
+| [TurnoExtra](https://github.com/Costa-dias/TurnoExtra) | Serviços, recebimentos parciais e cobranças | React, TypeScript, IndexedDB, Web Crypto e exportação de calendário |
 | [Dashboard Finanças](https://github.com/Costa-dias/Dashboard-Financas) | Saldo realizado, previsão e movimentação entre contas | React, TypeScript, gráficos, armazenamento local e backup protegido |
 | [FraudLens](https://github.com/Costa-dias/FraudLens) | Sinais de risco antes de abrir uma URL | React, Python/FastAPI, Google Safe Browsing, VirusTotal e testes da API |
 | [Honey Bee](https://github.com/Costa-dias/honey-bee-catalogo) | Catálogo e orçamento de cestas pelo WhatsApp | React, TypeScript, Supabase e painel administrativo |
